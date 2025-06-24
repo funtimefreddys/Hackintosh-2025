@@ -28,14 +28,14 @@ internet
 
 Wifi
 
-intel AC 7260 AC 
+intel AC 7260 AC  working ✅
 
 LAN 
 
-Realtek RTL8111H
+Realtek RTL8111H working ✅
 
 Audio
 
-Realtek ALC892
+Realtek ALC892 working ✅
 
-
+bluetooth not working ❌
