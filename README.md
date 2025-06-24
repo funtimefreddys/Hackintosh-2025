@@ -1,5 +1,4 @@
-# Hackintosh-2025
-Warning
+# Warning
 
 # Hackintosh might only support two versions.
 
