@@ -41,4 +41,5 @@ Realtek ALC892 working ✅
 bluetooth not working ❌
 
 apple ID working ✅
+
 ![Messenger_creation_1210845854109285](https://github.com/user-attachments/assets/0f1ccfbc-4d15-4318-b6fd-0b21001fb186)
