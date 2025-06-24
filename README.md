@@ -39,3 +39,5 @@ Audio
 Realtek ALC892 working ✅
 
 bluetooth not working ❌
+
+apple ID working ✅
