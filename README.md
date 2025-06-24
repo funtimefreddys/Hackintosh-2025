@@ -26,7 +26,9 @@ The specifications of the machine that is made
 
 internet
 
-Wifi intel AC 7260 AC 
+Wifi
+
+intel AC 7260 AC 
 
 LAN 
 
