@@ -23,3 +23,15 @@ The specifications of the machine that is made
 𝗛𝗗𝗗 𝘀𝗲𝗮𝗴𝗮𝘁𝗲 𝟭 𝗧𝗕 𝟳𝟮𝟬𝟬𝗥𝗣𝗠 𝗦𝗔𝗧𝗔
 
 𝗛𝗗𝗗 𝘀𝗲𝗮𝗴𝗮𝘁𝗲 𝟱𝟬𝟬𝗚𝗕 𝟳𝟮𝟬𝟬𝗥𝗣𝗠 𝗦𝗔𝗧𝗔
+
+internet
+
+Wifi intel AC 7260 AC 
+
+LAN 
+
+Realtek RTL8111H
+
+Audio
+
+Realtek ALC892
